@@ -16,7 +16,7 @@ In Assignment 3, you will complete several tasks to set up your GitHub repositor
    - Update your GitHub profile to make it more appealing. This includes adding a profile picture, a bio, and any relevant links or information that showcases your skills and interests.
 
 3. **Fork and Pull Request**:
-   - Fork the main Akademi 2024 repository to create your own copy.
+   - Fork the main [Academy 2024](https://github.com/Daskom-Lab/2024-Academy) repository to create your own copy.
    - Navigate to the `git_and_github` folder in your forked repository.
    - Open the `010_pull_request.md` file.
    - Review and follow the instructions outlined in the file to complete the pull request task.
