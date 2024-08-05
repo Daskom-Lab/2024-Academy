@@ -21,4 +21,4 @@ Okay, but why do we need this ? well, unless you want to stay traditional, class
 [+] More popular (if you put every codes you made in your github account, trust me, even company will try to reach you to get you working for them **even without having to go through technical interviews**)
 ```
 
-So, at this point, i dont think you will need other reason to learn this, and in that case, go ahead and learn it by reading all course contents inside the contents directory, i promised you that this knowledge wont go to waste!
+So, at this point, you have ample reasons to learn Git and GitHub. To continue, please proceed to the next page, `000_version_control_system.md`, to delve deeper into version control systems.
