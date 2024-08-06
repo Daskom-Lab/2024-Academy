@@ -41,6 +41,10 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As a tentor Backend  
   > Website link -> [junaidirah.github.io/WEB-personal](https://junaidirah.github.io/WEB-personal/)
 
+## Academician
+- [Muhammad Zaenal Abidin Abdurrahman](https://github.com/Zendin110206) [ZEN]
+  > As a academician
+
 ---
 
 <div align="center">
