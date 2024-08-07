@@ -46,13 +46,16 @@ Welcome all of you future star candidates who want to strive to attend the acade
 ## Academician
 
 - [Farrel Ardya Ghalyndra](https://github.com/arelardya) [REL]
-  > As an academician. 
+  > As an academician.
 - [Muhammad Zaenal Abidin Abdurrahman](https://github.com/Zendin110206) [ZEN]
-  > As a academician
-   
+  > As an academician.
+- [Immanuel Eben Haezer Joseph Aletheia](https://github.com/Zendin110206) [NUE]
+  > As an academician.
+- [Gibran Reza Al Ghazzali](https://github.com/bransazza) [GND]
+  > As an academician.
+- [Geraldi Ridwan Hakim](https://github.com/geraldirh) [ALD]
+  > As an academician.
+
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2024 <br> Building Skills for Tomorrow's Tech Leaders</p>
 </div>
-
-
-
