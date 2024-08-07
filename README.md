@@ -43,19 +43,25 @@ Welcome all of you future star candidates who want to strive to attend the acade
 
 ---
 
-## Academician
+## Academicians
 
 - [Farrel Ardya Ghalyndra](https://github.com/arelardya) [REL]
   > As an academician.
 - [Muhammad Zaenal Abidin Abdurrahman](https://github.com/Zendin110206) [ZEN]
   > As an academician.
-- [Immanuel Eben Haezer Joseph Aletheia](https://github.com/Zendin110206) [NUE]
+- [Geraldi Ridwan Hakim](https://github.com/geraldirh) [ALD]
   > As an academician.
 - [Gibran Reza Al Ghazzali](https://github.com/bransazza) [GND]
   > As an academician.
-- [Geraldi Ridwan Hakim](https://github.com/geraldirh) [ALD]
+- [Immanuel Eben Haezer Joseph Aletheia](https://github.com/EintsWaveX) [NUE]
   > As an academician.
 - [Yattaqi Muazirul Mulki](https://github.com/ukiirving) [UKI]
+  > As an academician.
+- [Aulia Rahma](https://github.com/pieceofaul) [AUL]
+  > As an academician.
+- [Muhammad Miftah Faqih](https://github.com/miftahfqih) [MIT]
+  > As an academician.
+- [Stevannie Pratama](https://github.com/stevanniep) [SNI]
   > As an academician.
 
 <div align="center">
