@@ -51,6 +51,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As a academician
 - [Aulia Rahma](https://github.com/pieceofaul) [AUL]
   > As a academician
+- [Stevannie Pratama](https://github.com/stevanniep) [SNI]
+  > As an academician
    
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2024 <br> Building Skills for Tomorrow's Tech Leaders</p>
