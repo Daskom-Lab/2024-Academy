@@ -55,7 +55,9 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.
 - [Stevannie Pratama](https://github.com/stevanniep) [SNI]
   > As an academician.
-
+- [Gibran Reza Al Ghazzali](https://github.com/bransazza) [GND]
+  > As an academician.
+>>>>>>> upstream/main
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2024 <br> Building Skills for Tomorrow's Tech Leaders</p>
 </div>
