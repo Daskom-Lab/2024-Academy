@@ -61,10 +61,13 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.
 - [Stevannie Pratama](https://github.com/stevanniep) [SNI]
   > As an academician.
+- [Zaidan Abdurrahman Hakim](https://github.com/zaidanah) [DUN]
+  > As an academician.
 - [Radif Putra Permana](https://github.com/radifpm) [RAR]
   > As an academician.
 - [Yattaqi Muazirul Mulki](https://github.com/ukiirving) [UKI]
   > As an academician.
+
 
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2024 <br> Building Skills for Tomorrow's Tech Leaders</p>
