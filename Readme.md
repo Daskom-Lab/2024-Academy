@@ -75,6 +75,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.
 - [Mohammad Fiqri Firmansyah](https://github.com/TakanashaTaryu) [RYU]
   > As an academician.
+- [Umar Zaki Gunawan](https://github.com/marzkigun27) [UZY]
+  > As an academician.
 - [Rafhan Mazaya Fathurrahman](https://github.com/fhanyuh) [RAF]
   > As an academician.
 
