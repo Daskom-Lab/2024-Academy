@@ -61,6 +61,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.
 - [Stevannie Pratama](https://github.com/stevanniep) [SNI]
   > As an academician.
+- [Radif Putra Permana](https://github.com/radifpm) [RAR]
+  > As an academician.
 
 
 <div align="center">
