@@ -69,13 +69,19 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.
 - [Muhammad Hafiz](https://github.com/tak2hu) [MHZ]
   > As an academician.
+- [Wijdan Insania Kuncoro](https://github.com/wijdanmkh-insk) [DAN]
+  > As an academician.
 - [Yattaqi Muazirul Mulki](https://github.com/ukiirving) [UKI]
   > As an academician.
 - [Mohammad Fiqri Firmansyah](https://github.com/TakanashaTaryu) [RYU]
   > As an academician.
+- [Umar Zaki Gunawan](https://github.com/marzkigun27) [UZY]
+  > As an academician.
+- [Rafhan Mazaya Fathurrahman](https://github.com/fhanyuh) [RAF]
+  > As an academician.
 - [Darma Al Gani](https://github.com/Daarma_IC) [GAN]
   > As an academician.
-  > 
+
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2024 <br> Building Skills for Tomorrow's Tech Leaders</p>
 </div>
