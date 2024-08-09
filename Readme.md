@@ -72,6 +72,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
 - [Yattaqi Muazirul Mulki](https://github.com/ukiirving) [UKI]
   > As an academician.
 - [Wijdan Insania Kuncoro](https://github.com/wijdanmkh-insk) [DAN]
+  > As an academician
+- [Mohammad Fiqri Firmansyah](https://github.com/TakanashaTaryu) [RYU]
   > As an academician.
 
 
