@@ -69,6 +69,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.
 - [Muhammad Hafiz](https://github.com/tak2hu) [MHZ]
   > As an academician.
+- [Yattaqi Muazirul Mulki](https://github.com/ukiirving) [UKI]
+  > As an academician.
 
 
 <div align="center">
