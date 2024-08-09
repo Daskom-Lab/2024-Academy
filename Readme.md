@@ -67,7 +67,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.
 - [Muhammad Favian Revaldy](https://github.com/lukarukikato) [FAV]
   > As an academician.
-
+- [Darma Al Gani](https://github.com/Daarma-IC) [GAN]
+  > As an academician.
 
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2024 <br> Building Skills for Tomorrow's Tech Leaders</p>
