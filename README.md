@@ -61,7 +61,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.
 - [Stevannie Pratama](https://github.com/stevanniep) [SNI]
   > As an academician.
-- [Darma Al Gani]{https://github.com/Daarma-IC} [GAN]
+- [Darma Al Gani](https://github.com/Daarma-IC) [SNI]
   > As an academician.
 
 
