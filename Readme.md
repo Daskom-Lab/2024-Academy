@@ -79,6 +79,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.
 - [Rafhan Mazaya Fathurrahman](https://github.com/fhanyuh) [RAF]
   > As an academician.
+  
   > Website link -> (https://basic-frontend-rose.vercel.app/)
 
 <div align="center">
