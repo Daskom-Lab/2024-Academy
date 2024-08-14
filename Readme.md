@@ -62,7 +62,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
 - [Stevannie Pratama](https://github.com/stevanniep) [SNI]
   > As an academician.
 - [Zaidan Abdurrahman Hakim](https://github.com/zaidanah) [ALL]
-  > As a mentor  
+  > As a academician  
   > Website link -> [https://zaidan.vercel.app/](https://zaidan.vercel.app/)
 - [Radif Putra Permana](https://github.com/radifpm) [RAR]
   > As an academician.
