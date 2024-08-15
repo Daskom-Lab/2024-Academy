@@ -49,6 +49,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.
 - [Muhammad Zaenal Abidin Abdurrahman](https://github.com/Zendin110206) [ZEN]
   > As an academician.
+  > Website link -> [zendin.vercel.app](https://zendin.vercel.app/)
 - [Immanuel Eben Haezer Joseph Aletheia](https://github.com/EintsWaveX) [NUE]
   > As an academician.
 - [Aulia Rahma](https://github.com/pieceofaul) [AUL]
