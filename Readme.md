@@ -48,7 +48,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
 - [Farrel Ardya Ghalyndra](https://github.com/arelardya) [REL]
   > As an academician.
 - [Muhammad Zaenal Abidin Abdurrahman](https://github.com/Zendin110206) [ZEN]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [zendin.vercel.app](https://zendin.vercel.app/)
 - [Immanuel Eben Haezer Joseph Aletheia](https://github.com/EintsWaveX) [NUE]
   > As an academician.
 - [Aulia Rahma](https://github.com/pieceofaul) [AUL]
@@ -62,7 +63,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
 - [Stevannie Pratama](https://github.com/stevanniep) [SNI]
   > As an academician.
 - [Zaidan Abdurrahman Hakim](https://github.com/zaidanah) [DUN]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [https://zaidan.vercel.app/](https://zaidan.vercel.app/)
 - [Radif Putra Permana](https://github.com/radifpm) [RAR]
   > As an academician.
 - [Muhammad Favian Revaldy](https://github.com/lukarukikato) [FAV]
@@ -79,6 +81,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.
 - [Rafhan Mazaya Fathurrahman](https://github.com/fhanyuh) [RAF]
   > As an academician.
+  > Website link -> (https://basic-frontend-rose.vercel.app/)
 - [Darma Al Gani](https://github.com/Daarma_IC) [GAN]
   > As an academician. 
 
