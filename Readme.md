@@ -70,8 +70,9 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > Website link -> [https://portofolio-radif.vercel.app/](https://portofolio-radif.vercel.app/)
 - [Muhammad Favian Revaldy](https://github.com/lukarukikato) [FAV]
   > As an academician.
-- [Muhammad Hafiz](https://github.com/tak2hu) [MHZ]
-  > As an academician.
+- [Muhammad Hafiz](https://github.com/mhafiz03) [MHZ]
+  > As an academician.  
+  > Website link -> [mhafiz03.github.io](https://mhafiz03.github.io/)
 - [Wijdan Insania Kuncoro](https://github.com/wijdanmkh-insk) [DAN]
   > As an academician.
 - [Yattaqi Muazirul Mulki](https://github.com/ukiirving) [UKI]
