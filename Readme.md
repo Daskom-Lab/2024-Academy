@@ -67,6 +67,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > Website link -> [https://zaidan.vercel.app/](https://zaidan.vercel.app/)
 - [Radif Putra Permana](https://github.com/radifpm) [RAR]
   > As an academician.
+  > Website link -> [https://portofolio-radif.vercel.app/](https://portofolio-radif.vercel.app/)
 - [Muhammad Favian Revaldy](https://github.com/lukarukikato) [FAV]
   > As an academician.
 - [Muhammad Hafiz](https://github.com/tak2hu) [MHZ]
