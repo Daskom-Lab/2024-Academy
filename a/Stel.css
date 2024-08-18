@@ -1,0 +1,221 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.content {
+    background-color: #fff;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+    background-color: cyan;
+    color: #fff;
+    padding: 35px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+}
+
+.profile-info {
+    display: flex;
+    align-items: center;
+    padding: 40px;
+    background-color: #abb1b5;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.profile-info img {
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+.profile-info p {
+    margin: 0;
+    font-size: 18px;
+    color: #333;
+}
+#paragraph1{
+    margin: 10px 0;
+    padding: 10px 20px;
+    background-color: #fff;
+    border-left: 5px solid;
+    border-color: cyan;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+}
+#paragraph2{
+    margin: 10px 0;
+    padding: 10px 20px;
+    background-color: #fff;
+    border-left: 5px solid;
+    border-color: cyan;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+}
+#paragraph3 {
+    margin: 10px 0;
+    padding: 10px 20px;
+    background-color: #fff;
+    border-left: 5px solid;
+    border-color: cyan;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+}
+
+#paragraph1 {
+    font-size: 18px;
+    font-family: Verdana, sans-serif;
+    color: #555;
+    margin-bottom: 30px;
+}
+
+#paragraph2 {
+    font-size: 18px;
+    font-family: Verdana, sans-serif;
+    color: #555;
+    margin-bottom: 30px;
+}
+
+#paragraph3 {
+    font-size: 18px;
+    font-family: 'Courier New', monospace;
+    color: #333;
+    font-style: italic;
+}
+
+#contact {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    font-size: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.contact-item {
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+}
+
+.contact-item img {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+}
+
+.contact-item a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #2e86c1;
+    display: flex;
+    align-items: center;
+}
+
+.contact-item a:hover {
+    text-decoration: underline;
+}
+/* CSS yang sudah ada tetap */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.content {
+    background-color: #fff;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+    background-color: #2e86c1;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.profile-info {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: #abb1b5;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.profile-info img {
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+.profile-info p {
+    margin: 0;
+    font-size: 18px;
+    color: #333;
+}
+
+#porto {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    border-left: 5px solid cyan;
+    border-radius: 8px;
+}
+#porto strong {
+    font-size: 22px;
+    color: #2e86c1;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.porto-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.porto-item img{
+    
+    max-width: 70%;
+    height: 50%;
+    border-radius: 8px;
+}
+.porto-item video {
+    max-width: 25%;
+    height: 30%;
+    border-radius: 8px;
+}
+
+.porto-item h1 {
+    font-size: 24px;
+    margin: 10px 0;
+    color: #333;
+    flex-basis: 100%;
+}
+
+.porto-item p {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.6;
+    flex-basis: 100%;
+}
