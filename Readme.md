@@ -83,7 +83,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.
   > Website link -> (https://basic-frontend-rose.vercel.app/)
 - [Darma Al Gani](https://github.com/Daarma_IC) [GAN]
-  > As an academician. 
+  > As an academician.
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2024 <br> Building Skills for Tomorrow's Tech Leaders</p>
 </div>
