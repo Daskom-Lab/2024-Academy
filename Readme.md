@@ -80,7 +80,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
 - [Mohammad Fiqri Firmansyah](https://github.com/TakanashaTaryu) [RYU]
   > As an academician.
 - [Umar Zaki Gunawan](https://github.com/marzkigun27) [UZY]
-  > As an academician.
+  > As an academician. 
   > Website link -> [marzk-porto.vercell.app/](https://marzk-porto.vercel.app/)
 - [Rafhan Mazaya Fathurrahman](https://github.com/fhanyuh) [RAF]
   > As an academician.  
