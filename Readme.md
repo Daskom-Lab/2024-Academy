@@ -63,7 +63,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.  
   > Website link -> [portofolio-miftahfqih.vercel.app](https://portofolio-miftahfqih.vercel.app/)
 - [Stevannie Pratama](https://github.com/stevanniep) [SNI]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [https://stevvporto.vercel.app/](https://stevvporto.vercel.app/)
 - [Zaidan Abdurrahman Hakim](https://github.com/zaidanah) [DUN]
   > As an academician.  
   > Website link -> [https://zaidan.vercel.app/](https://zaidan.vercel.app/)
