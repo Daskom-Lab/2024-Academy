@@ -53,7 +53,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
 - [Immanuel Eben Haezer Joseph Aletheia](https://github.com/EintsWaveX) [NUE]
   > As an academician.
 - [Aulia Rahma](https://github.com/pieceofaul) [AUL]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [https://aulia-rahma-portfolio.vercel.app/](https://aulia-rahma-portfolio.vercel.app/)
 - [Gibran Reza Al Ghazzali](https://github.com/bransazza) [GND]
   > As an academician.
 - [Geraldi Ridwan Hakim](https://github.com/geraldirh) [ALD]
