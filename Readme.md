@@ -46,7 +46,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
 ## Academicians
 
 - [Farrel Ardya Ghalyndra](https://github.com/arelardya) [REL]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [thisrel](https://arelardya.github.io/thisrel/)
 - [Muhammad Zaenal Abidin Abdurrahman](https://github.com/Zendin110206) [ZEN]
   > As an academician.  
   > Website link -> [zendin.vercel.app](https://zendin.vercel.app/)
