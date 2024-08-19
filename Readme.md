@@ -58,6 +58,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.
 - [Gibran Reza Al Ghazzali](https://github.com/bransazza) [GND]
   > As an academician.
+  > Website link -> https://portogibran.vercel.app/
 - [Geraldi Ridwan Hakim](https://github.com/geraldirh) [ALD]
   > As an academician.  
   > Website link -> (https://my-portofolio-geraldirhs-projects.vercel.app/)
