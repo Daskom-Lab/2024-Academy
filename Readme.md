@@ -55,7 +55,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.  
   > Website link -> [Immanuel's Portfolio](https://eintswavex.github.io/)
 - [Aulia Rahma](https://github.com/pieceofaul) [AUL]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [https://aulia-rahma-portfolio.vercel.app/](https://aulia-rahma-portfolio.vercel.app/)
 - [Gibran Reza Al Ghazzali](https://github.com/bransazza) [GND]
   > As an academician.  
   > Website link -> https://portogibran.vercel.app/
