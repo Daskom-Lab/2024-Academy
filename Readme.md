@@ -82,6 +82,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > Website link -> [portouki.vercel.app](https://portouki.vercel.app/)
 - [Mohammad Fiqri Firmansyah](https://github.com/TakanashaTaryu) [RYU]
   > As an academician.
+  > Websie link -> [https://portouki.vercel.app/](https://porto-54yie9eqh-takanashataryus-projects.vercel.app/)
 - [Umar Zaki Gunawan](https://github.com/marzkigun27) [UZY]
   > As an academician.  
   > Website link -> [marzk-porto.vercel.app](https://marzk-porto.vercel.app/)
