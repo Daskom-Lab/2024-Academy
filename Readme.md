@@ -75,6 +75,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > Website link -> [mhafiz03.github.io](https://mhafiz03.github.io/)
 - [Wijdan Insania Kuncoro](https://github.com/wijdanmkh-insk) [DAN]
   > As an academician.
+  > Website link -> [Wijdan Insania Kuncoro](https://wijdanmkh-insk.github.io/)
 - [Yattaqi Muazirul Mulki](https://github.com/ukiirving) [UKI]
   > As an academician.
 - [Mohammad Fiqri Firmansyah](https://github.com/TakanashaTaryu) [RYU]
