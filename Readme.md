@@ -58,7 +58,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
 - [Gibran Reza Al Ghazzali](https://github.com/bransazza) [GND]
   > As an academician.
 - [Geraldi Ridwan Hakim](https://github.com/geraldirh) [ALD]
-  > As an academician.
+  > As an academician.  
+  > Website link -> (https://my-portofolio-geraldirhs-projects.vercel.app/)
 - [Muhammad Miftah Faqih](https://github.com/miftahfqih) [MIT]
   > As an academician.
 - [Stevannie Pratama](https://github.com/stevanniep) [SNI]
@@ -81,7 +82,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
 - [Mohammad Fiqri Firmansyah](https://github.com/TakanashaTaryu) [RYU]
   > As an academician.
 - [Umar Zaki Gunawan](https://github.com/marzkigun27) [UZY]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [marzk-porto.vercel.app](https://marzk-porto.vercel.app/)
 - [Rafhan Mazaya Fathurrahman](https://github.com/fhanyuh) [RAF]
   > As an academician.  
   > Website link -> (https://basic-frontend-rose.vercel.app/)
