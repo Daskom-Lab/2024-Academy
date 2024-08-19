@@ -23,7 +23,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > Website link -> [iganarendra.my.id](https://iganarendra.my.id/)
 - [Muhammad Fakhri Putra Supriyadi](https://github.com/fakhrip) [FAI]
   > As a mentor  
-  > Website link -> [justak.id](https://justak.id/)
+  > Website link -> [thatwas.fun](https://thatwas.fun/)
 
 ---
 
