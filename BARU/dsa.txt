@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Info</title>
+    <link rel="stylesheet" href="Stel.css"> 
+    <div class="content">
+      
+</head>
+<body>
+    <nav class="navbar">
+        <a href="#paragraph1" class="nav-link">About Me</a>
+        <a href="#porto" class="nav-link">Portofolio</a>
+        <a href="#contact" class="nav-link">Contact</a>
+    </nav>
+    <div class="header">About Me</div>
+
+    <div class="body">
+        <div class="header">Portofolio</div>
+    </div class="header">
+        <div class="profile-info">
+            <img src="poto.png" alt="Foto Personal" width="120px" height="120px">
+            <p>
+                Name : Darma Al Gani
+                <br>
+                Major : Telecommunication Engineering
+                <br>
+                NIM : 101012330221
+            </p>
+        </div>
+
+        <div id="paragraph1">
+            <strong>Personal Information</strong>
+            <br>
+            Place : Dumai
+            <br>
+            Date Of Birth : August 28, 2004
+            <br>
+            Nationality : Indonesia
+            <br>
+            Religion : Islam
+            <br>
+            Gender : Male
+            <br>
+            Height : 170 Cm
+            <br>
+            Weight : 67 Kg
+        </div>
+
+        <div id="paragraph2">
+            <strong>Interests</strong>
+            <br>
+            <ul type="disc">
+            <li>Technology</li>
+            <li>Music</li>
+            <li>Traveling</li>
+            <li>Reading</li>
+        </ul>
+        </div>
+
+        <div id="paragraph3">
+            <strong>Favorite Quote</strong>
+            <br>
+            "Time Can't Be Bought, Sometimes It Can Be Sold Anymore."
+        </div>
+    </div>
+    <div id="porto">
+        <strong>Portofolio</strong>
+        <h1>Navlight With 4 Condition</h1>    
+        <div class="porto-item">
+            <img src="Navlight.png" alt="Project 1" class="porto-img">
+            <video class="porto-video" controls>
+                <source src="navlight.mp4" type="video/mp4">
+                The Proof
+            </video>
+            
+            <p>I designed and built a custom navlight with component such as transistor, pin header(integration to led), resistor.
+                also connected with JST. It has a built-in switch and can be controlled remotely. Also has 4 options: blink section, navl, strobe, and beacon.
+                Futhermore, the PCB will maked with atmega only as a main , not include Arduino Pro Micro to be the main out.
+            </p>
+        </div>
+    </div>
+
+    <div id="contact">
+        <strong><i>Contact Information</i></strong>
+        <div class="contact-item">
+            <a href="mailto:darmaalgani@gmail.com" target="_blank">
+                <img src="email.jpeg" alt="Email"> 
+                Email
+            </a>
+        </div>
+        <div class="contact-item">
+            <a href="tel:+6289513829923" target="_blank">
+                <img src="phone.png" alt="Phone Icon"> 
+                Phone Number
+            </a>
+        </div>
+        <div class="contact-item">
+            <a href="https://www.linkedin.com/in/darma-al-gani-556456262/" target="_blank">
+                <img src="linkedin.jpeg" alt="LinkedIn ">
+                LinkedIn
+            </a>
+        </div>
+        <div class="contact-item">
+            <a href="https://github.com/Daarma-IC" target="_blank">
+                <img src="github.png" alt="Github ">
+                Github
+            </a>
+        </div>
+    </div>
+
+</body>
+</html>
