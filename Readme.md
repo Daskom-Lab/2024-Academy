@@ -80,8 +80,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.  
   > Website link -> [mhafiz03.github.io](https://mhafiz03.github.io/)
 - [Wijdan Insania Kuncoro](https://github.com/wijdanmkh-insk) [DAN]
-  > As an academician.
-  > Website link -> [Wijdan Insania Kuncoro](https://wijdanmkh-insk.github.io/)
+   > As an academician.  
+  > Website link -> [wijdanmkh-insk.github.io](https://wijdanmkh-insk.github.io/)
 - [Yattaqi Muazirul Mulki](https://github.com/ukiirving) [UKI]
   > As an academician.  
   > Website link -> [portouki.vercel.app](https://portouki.vercel.app/)
