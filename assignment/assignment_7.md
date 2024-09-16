@@ -17,8 +17,8 @@ In Assignment 7, you will integrate PHP and MySQL into the backend of your proje
 
 ## Timeline
 
-- **Start Date**: September 16, 2024
-- **End Date**: October 7, 2024, at 3:00 PM WIB
+- **Start Date**: September 18, 2024
+- **End Date**: October 9, 2024, at 3:00 PM WIB
 
 ## Submission
 
