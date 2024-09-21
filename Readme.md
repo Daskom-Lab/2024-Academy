@@ -23,7 +23,7 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > Website link -> [iganarendra.my.id](https://iganarendra.my.id/)
 - [Muhammad Fakhri Putra Supriyadi](https://github.com/fakhrip) [FAI]
   > As a mentor  
-  > Website link -> [justak.id](https://justak.id/)
+  > Website link -> [thatwas.fun](https://thatwas.fun/)
 
 ---
 
@@ -46,40 +46,56 @@ Welcome all of you future star candidates who want to strive to attend the acade
 ## Academicians
 
 - [Farrel Ardya Ghalyndra](https://github.com/arelardya) [REL]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [thisrel](https://arelardya.github.io/thisrel/)
 - [Muhammad Zaenal Abidin Abdurrahman](https://github.com/Zendin110206) [ZEN]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [zendin.vercel.app](https://zendin.vercel.app/)
 - [Immanuel Eben Haezer Joseph Aletheia](https://github.com/EintsWaveX) [NUE]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [Immanuel's Portfolio](https://eintswavex.github.io/)
 - [Aulia Rahma](https://github.com/pieceofaul) [AUL]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [https://aulia-rahma-portfolio.vercel.app/](https://aulia-rahma-portfolio.vercel.app/)
 - [Gibran Reza Al Ghazzali](https://github.com/bransazza) [GND]
-  > As an academician.
+  > As an academician.  
+  > Website link -> https://portogibran.vercel.app/
 - [Geraldi Ridwan Hakim](https://github.com/geraldirh) [ALD]
-  > As an academician.
+  > As an academician.  
+  > Website link -> (https://my-portofolio-geraldirhs-projects.vercel.app/)
 - [Muhammad Miftah Faqih](https://github.com/miftahfqih) [MIT]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [portofolio-miftahfqih.vercel.app](https://portofolio-miftahfqih.vercel.app/)
 - [Stevannie Pratama](https://github.com/stevanniep) [SNI]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [https://stevvporto.vercel.app/](https://stevvporto.vercel.app/)
 - [Zaidan Abdurrahman Hakim](https://github.com/zaidanah) [DUN]
   > As an academician.  
   > Website link -> [https://zaidan.vercel.app/](https://zaidan.vercel.app/)
 - [Radif Putra Permana](https://github.com/radifpm) [RAR]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [https://portofolio-radif.vercel.app/](https://portofolio-radif.vercel.app/)
 - [Muhammad Favian Revaldy](https://github.com/lukarukikato) [FAV]
-  > As an academician.
-- [Muhammad Hafiz](https://github.com/tak2hu) [MHZ]
-  > As an academician.
+   > As an academician.  
+  > Website link -> [https://faviansportfolio-lukarukikatos-projects.vercel.app/](https://faviansportfolio-lukarukikatos-projects.vercel.app/)
+- [Muhammad Hafiz](https://github.com/mhafiz03) [MHZ]
+  > As an academician.  
+  > Website link -> [mhafiz03.github.io](https://mhafiz03.github.io/)
 - [Wijdan Insania Kuncoro](https://github.com/wijdanmkh-insk) [DAN]
-  > As an academician.
+   > As an academician.  
+  > Website link -> [wijdanmkh-insk.github.io](https://wijdanmkh-insk.github.io/)
 - [Yattaqi Muazirul Mulki](https://github.com/ukiirving) [UKI]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [portouki.vercel.app](https://portouki.vercel.app/)
 - [Mohammad Fiqri Firmansyah](https://github.com/TakanashaTaryu) [RYU]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [takanashataryu-porto.vercel.app](https://takanashataryuportofolio-1obowngjf-takanashataryus-projects.vercel.app/)
 - [Umar Zaki Gunawan](https://github.com/marzkigun27) [UZY]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [marzk-porto.vercel.app](https://marzk-porto.vercel.app/)
 - [Rafhan Mazaya Fathurrahman](https://github.com/fhanyuh) [RAF]
-  > As an academician.
+  > As an academician.  
+  > Website link -> (https://basic-frontend-rose.vercel.app/)
 
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2024 <br> Building Skills for Tomorrow's Tech Leaders</p>
