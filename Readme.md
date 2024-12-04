@@ -96,6 +96,9 @@ Welcome all of you future star candidates who want to strive to attend the acade
 - [Rafhan Mazaya Fathurrahman](https://github.com/fhanyuh) [RAF]
   > As an academician.  
   > Website link -> (https://basic-frontend-rose.vercel.app/)
+- [Dariele Zebada Sanuwu Gea](https://github.com/DrealGea/drealgea-github-io.git) [DAZ]
+  > As an academician.
+  > Website link -> https://drealgea.github.io/drealgea-github-io/
 
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2024 <br> Building Skills for Tomorrow's Tech Leaders</p>
